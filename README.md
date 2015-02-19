@@ -6,7 +6,7 @@ https://www.coursera.org/course/pythonlearn
 
 # 2/19/2015
 
-##### Finish Week 3 Assignment.
+##### Finish Week 4 Assignment.
 
 
 # 2/1/2015 
