@@ -2,7 +2,9 @@
 
 https://www.coursera.org/course/pythonlearn
 
+# 2/26/2015
 
+##### Finish Week 5 Assignment. I don't think I wrote the most elegant code but it worked. 
 
 # 2/19/2015
 
