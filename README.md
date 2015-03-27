@@ -2,6 +2,9 @@
 
 https://www.coursera.org/course/pythonlearn
 
+# 3/26/2015
+##### Finished Week 8. Just realized that I've been putting my codes in the wrong repo XD
+
 # 2/26/2015
 
 ##### Finish Week 5 Assignment. I don't think I wrote the most elegant code but it worked. 
